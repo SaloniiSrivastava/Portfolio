@@ -28,7 +28,7 @@ html{
 
 .navbar.sticky{
     padding: 15px 0;
-     background-color:#F18801; 
+     background-color:#481620; 
 }
 .navbar .max-width{
     display: flex;
@@ -44,7 +44,7 @@ html{
 
 }
 .navbar .logo a span{
-    color:#F18801;
+    color:#481620;
 }
 
 .navbar.sticky .logo a span{
@@ -67,7 +67,7 @@ html{
 
 }
 .navbar .menu li a:hover{
-    color: #F18801;
+    color: #481620;
 }
 
 .navbar.sticky .menu li a:hover{
@@ -91,7 +91,7 @@ html{
     position: fixed;
     height:45px;
     width:42px;
-    background:#F18801;
+    background:#481620;
     right:30px;
     bottom: 10px;
     text-align:center;
@@ -146,7 +146,7 @@ html{
 
 }
 .home .home-content .text-3 span{
-    color: #F18801;
+    color: #481620;
     font-weight: 500;
 }
 .home .home-content a{
@@ -192,7 +192,7 @@ section .title::after{
     bottom: -12px;
     left: 50%;
     font-size: 20px;
-    color:#F18801;
+    color:#481620;
     padding: 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -242,14 +242,14 @@ section{
 }
 .about .about-content .right  a{
     display: inline-block;
-    background: #F18801;
+    background: #481620;
     color: #fff;
     font-weight:500;
     font-size:18px;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid #F18801;
+    border: 2px solid #481620;
     transition: all 0.3s ease;
 }
 .about .about-content .right  a:hover{
@@ -282,7 +282,7 @@ section{
 }
 .services .serv-content .card i{
     font-size: 50px;
-    color: #F18801;
+    color: #481620;
 }
 .services .serv-content .card .box{
     transition: all 0.3s ease;
@@ -317,7 +317,7 @@ transform: scale(1.05);
     font-size:25px;
     font-weight: 500;
     margin: 10px 0 7px 0;
-    color:#F18801;
+    color:#481620;
     
 }
 
@@ -342,19 +342,19 @@ transform: scale(1.05);
 
 .skills .skills-content .left a{
     display: inline-block;
-    background: #F18801;
+    background: #481620;
     color: #fff;
     font-weight:500;
     font-size:15px;
     padding: 8px 16px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid #F18801;
+    border: 2px solid #481620;
     transition: all 0.3s ease;
 }
 
 .skills .skills-content .left a:hover{
-    color: #F18801;
+    color: #481620;
     background: none;
 }
 
@@ -385,7 +385,7 @@ transform: scale(1.05);
     height: 100%;
     left:0;
     top:0;
-    background:#F18801;
+    background:#481620;
 }
 
 .skills .skills-content .right .html::before{
@@ -451,7 +451,7 @@ transform: scale(1.05);
 
 .contact .contact-content .row i {
     font-size:25px;
-    color:#F18801;
+    color:#481620;
 }
 
 .contact .contact-content .info .head{
@@ -506,7 +506,7 @@ transform: scale(1.05);
     height:100%;
     margin-top: 55px;
     border: 2px solid #F18801;
-    background:#F18801;
+    background:#481620;
     color:#fff;
     font-size:20px;
     border-radius: 6px;
@@ -516,7 +516,7 @@ transform: scale(1.05);
 }
 .contact .right form .button button:hover{
     background:none;
-    color: #F18801;
+    color: #481620;
     cursor:pointer;
 }
 
@@ -531,7 +531,7 @@ footer{
 }
 
 footer span a{
-    color:#F18801;
+    color:#481620;
 }
 
 
@@ -597,7 +597,7 @@ footer span a{
         }
         
         .navbar.sticky .menu li a:hover{
-            color: #F18801;
+            color: #481620;
             transition: all 0.3s ease;
         }
         .home .home-content .text-2{
