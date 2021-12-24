@@ -28,7 +28,7 @@ html{
 
 .navbar.sticky{
     padding: 15px 0;
-     background-color:#481620; 
+     background-color:#CF4D6F; 
 }
 .navbar .max-width{
     display: flex;
@@ -44,7 +44,7 @@ html{
 
 }
 .navbar .logo a span{
-    color:#481620;
+    color:#CF4D67;
 }
 
 .navbar.sticky .logo a{
@@ -71,7 +71,7 @@ html{
 
 }
 .navbar .menu li a:hover{
-    color: #481620;
+    color: #CF4D67;
 }
 
 
@@ -96,7 +96,7 @@ html{
     position: fixed;
     height:45px;
     width:42px;
-    background:#481620;
+    background:#CF4D67;
     right:30px;
     bottom: 10px;
     text-align:center;
@@ -176,7 +176,7 @@ section .title::after{
     bottom: -12px;
     left: 50%;
     font-size: 20px;
-    color:#481620;
+    color:#CF4D67;
     padding: 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -274,18 +274,18 @@ section{
     /* margin-left: 30%; */
     /* margin: 0 30% 0 30%; */
     background: none;
-    color: #481620;
+    color: #CF4D67;
    font-size:100%;
     padding: 12px 36px;
     /* margin-top: 20px; */
     border-radius: 6px;
     
-    border: 2px solid #481620;
+    border: 2px solid #CF4D67;
     transition: all 0.3s ease;
 }
 .professional a:hover{
     color: #fff;
-    background: #481620;
+    background: #CF4D67;
 }
 
 
@@ -299,7 +299,7 @@ footer{
 }
 
 footer span a{
-    color:#481620;
+    color:#CF4D67;
 }
 
 
@@ -364,7 +364,7 @@ footer span a{
         }
         
         .navbar.sticky .menu li a:hover{
-            color: #481620;
+            color: #CF4D67;
             transition: all 0.3s ease;
         }
         .home .home-content .text-2{
