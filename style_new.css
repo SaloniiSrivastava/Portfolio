@@ -67,7 +67,7 @@ html{
 
 }
 .navbar .menu li a:hover{
-    color: ;
+    color: black;
 }
 
 .navbar.sticky .menu li a:hover{
